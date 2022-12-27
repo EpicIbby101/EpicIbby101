@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects that use ReactJS, Redux, TailwindCSS and various APIs to add to an ever-growing portfolio**
 
-- 🧠 I'm trying to further my understanding in: ReactJS, AWS, NodeJS/ ExpressJS
+- 🧠 I'm trying to further my understanding in: ReactJS, VueJS, AWS, NodeJS/ ExpressJS
 
 - 📫 How to reach me: **Kevin.grittnertech@gmail.com**
 
