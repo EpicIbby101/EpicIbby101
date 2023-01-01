@@ -5,7 +5,7 @@
 
 - 🧠 I'm trying to further my understanding in: ReactJS, VueJS, AWS, NodeJS/ ExpressJS
 
-- 💻 You can check out my website here: https://kevingrittner.com/
+- 💻 You can check out my website here: **https://kevingrittner.com/**
 
 - 📫 How to reach me: **Kevin.grittnertech@gmail.com**
 
