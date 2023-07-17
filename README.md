@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Kevin 😎</h1>
 <h3 align="center">I'm a full-stack developer looking to break into the tech industry 💻</h3>
 
-- 🔭 I’m currently working on **projects that use ReactJS, Redux, TailwindCSS and various APIs to add to an ever-growing portfolio**
+- 🔭 I’m currently working on **projects that use NextJS, TailwindCSS and various APIs to add to an ever-growing portfolio**
 
-- 🧠 I'm trying to further my understanding in: ReactJS, VueJS, AWS, NodeJS/ ExpressJS
+- 🧠 I'm trying to further my understanding in: ReactJS, NextJS, AWS, NodeJS
 
 - 💻 You can check out my website here: **https://kevingrittner.com/**
 
-- 📫 How to reach me: **Kevin.grittnertech@gmail.com**
+- 📫 How to reach me: **Kevin_grittner@outlook.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
