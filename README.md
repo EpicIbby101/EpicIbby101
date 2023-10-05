@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects that use NextJS, TailwindCSS and various APIs to add to an ever-growing portfolio**
 
-- 🧠 I'm trying to further my understanding in: ReactJS, NextJS, AWS, NodeJS
+- 🧠 I'm trying to further my understanding in: JQuery, ReactJS, NextJS, AWS, NodeJS
 
 - 💻 You can check out my website here: **https://kevingrittner.com/**
 
