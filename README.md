@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Kevin 😎</h1>
-<h3 align="center">I'm a full-stack developer looking to break into the tech industry 💻</h3>
+<h3 align="center">I'm a Frontend Developer with a focus on React 💻</h3>
 
 - 🔭 I’m currently working on **projects that use NextJS, TailwindCSS and various APIs to add to an ever-growing portfolio**
 
-- 🧠 I'm trying to further my understanding in: JQuery, ReactJS, NextJS, AWS, NodeJS
+- 🧠 I'm trying to further my understanding in: JQuery, ReactJS, NextJS, AWS, NodeJS and Typescript
 
-- 💻 You can check out my website here: **https://kevingrittner.com/**
+- 💻 You can check out my website here: **https://developer-portfolio-ktmad82cr-epicibby101.vercel.app/**
 
 - 📫 How to reach me: **Kevin_grittner@outlook.com**
 
