@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Kevin_grittner@outlook.com**
 
-- 💻 Check out [my portfolio](https://developer-portfolio-epicibby101.vercel.app/)
+- 💻 Check out [my portfolio here](https://developer-portfolio-epicibby101.vercel.app/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
